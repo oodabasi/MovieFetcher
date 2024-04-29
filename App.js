@@ -12,7 +12,7 @@ import {
 import axios from 'axios';
 
 const BASE_URL = 'https://api.themoviedb.org/3/';
-const API_KEY = '20d5092a928c73f98b8e8e3d8dbb4d1e'; // Replace with your actual TMDb API key
+const API_KEY = 'Replace with your actual TMDb API key'; 
 const TMDB_IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500'; // Base URL for TMDb images
 const DEFAULT_IMAGE = 'https://via.placeholder.com/100x150'; // Default image URL (replace with your preferred placeholder)
 
